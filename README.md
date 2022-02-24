@@ -1,8 +1,8 @@
-# This is a clone of koovs ecommerse website. this is construct week 2 project. We are a team of six members Chandan ,Monu, Chaitanya, suresh, Kapil, Moin
+# This is a clone of koovs ecommerse website. this is construct week 2 project. We are a team of six members Chandan ,Monu, Ruby, suresh, Abhishek, Moin
 work divided in following manner-
 
-Monu-Landing Page and Header&footer
+Monu-Landing Page and Header
 Chandan-Cart and Checkout
-Chaitanya & suresh-Product page
-Kapil-display page
+Abhishek- Footer
+Ruby- Thankyou page
 Moin-Signup and Signin
