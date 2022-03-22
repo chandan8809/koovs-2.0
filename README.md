@@ -1,4 +1,4 @@
-# UNIQLO.COM
+# KOOVS.COM
 
 This is clone of Koovs.com It is an Indian e-commerce web application to purchase clothing . This project has been completed by team of five members in 4 days .
 
