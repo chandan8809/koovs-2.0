@@ -37,9 +37,9 @@ https://chandan8809.github.io/koovs-2.0/
 
  # Our project team members :
  <br>
-Monu    --- Landing Page and Header, Sign-in SignUp
+Monu    --- Landing Page and Header, Footer
 <br>
-Chandan --- Display Page with ruby
+Chandan --- Sign-in SignUp
 <br>
 Suresh  --- Product page
 <br>
@@ -47,4 +47,4 @@ Ruby    --- display page
 <br>
 Moin    --- Cart page
 <br>
-Abhishek --- Checkout and Footer
+Abhishek --- Checkout
